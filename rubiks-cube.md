@@ -49,7 +49,9 @@ Ensure the final output is a single, runnable HTML file that accurately implemen
 {
   "imports": {
     "three": "https://cdn.jsdelivr.net/npm/three@0.177.0/build/three.module.min.js",
-    "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.177.0/examples/jsm/"
+    "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.177.0/examples/jsm/",
+    "cube": "https://cdn.jsdelivr.net/npm/cubejs@1.3.2/lib/cube.min.js",
+    "solve": "https://cdn.jsdelivr.net/npm/cubejs@1.3.2/lib/solve.min.js"
   }
 }
 </script>
