@@ -3,9 +3,9 @@ Create a complete, self-contained single HTML file (index.html) for an interacti
 **Core Features:**
 
 1.  **3D Cube Display:**
-    * Render a standard 3x3x3 Rubik's Cube in the center of the view.
-    * Use standard Rubik's Cube face colors (White, Yellow, Red, Orange, Blue, Green).
-    * Ensure individual cubelets are distinct.
+* Render a standard 3x3x3 Rubik's Cube in the center of the view.
+* Use standard Rubik's Cube face colors (White, Yellow, Red, Orange, Blue, Green).
+* Ensure individual cubelets are distinct.
 
 2.  **User Interaction:**
     * Allow the user to rotate the entire cube's view using right-click + drag (orbit controls).
