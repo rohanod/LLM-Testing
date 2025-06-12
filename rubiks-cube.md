@@ -33,12 +33,12 @@ Create a complete, self-contained single HTML file (index.html) for an interacti
 
 
 **Technical Requirements & Style:**
-* Use modern JavaScript (ES6+).
-* Embed all CSS within `<style>` tags and all JavaScript within `<script>` tags in the single HTML file.
-* Load Three.js library from a reliable CDN (e.g., cdnjs or jsdelivr).
-* Code should be well-structured, commented, and reasonably efficient.
-* The UI should be clean and functional.
-* Animations for rotations, scrambling, and solving should be smooth.
+* Use modern JavaScript (ES6+).
+* Embed all CSS within `<style>` tags and all JavaScript within `<script>` tags in the single HTML file.
+* Load Three.js library from a reliable CDN (e.g., cdnjs or jsdelivr).
+* Code should be well-structured, commented, and reasonably efficient.
+* The UI should be clean and functional.
+* Animations for rotations, scrambling, and solving should be smooth.
 
 
 Ensure the final output is a single, runnable HTML file that accurately implements these features.
