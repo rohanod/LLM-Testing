@@ -13,10 +13,10 @@ Create a complete, self-contained single HTML file (index.html) for an interacti
 * Allowing clicking a part of the rubiks cube and dragging it to move that part(Both regular and ')
 
 3.  **Cube Manipulation Controls (UI Panel):**
-* Create a clear UI panel (e.g., using HTML/CSS positioned absolutely or relatively).
-* Include buttons for standard face rotations using standard notation: F, F', B, B', U, U', D, D', R, R', L, L'.
-* Include buttons for middle slice rotations: M, M', E, E', S, S'.
-* Clicking a rotation button should animate the corresponding face/slice turn smoothly on the 3D cube model.
+* Create a clear UI panel (e.g., using HTML/CSS positioned absolutely or relatively).
+* Include buttons for standard face rotations using standard notation: F, F', B, B', U, U', D, D', R, R', L, L'.
+* Include buttons for middle slice rotations: M, M', E, E', S, S'.
+* Clicking a rotation button should animate the corresponding face/slice turn smoothly on the 3D cube model.
 * When rotating using right-click + drag, make sure the faces are recalculated so the f is still the one in the front and not in the back. Only recalculate 3 seconds after the last drag rotation so it isn't constantly calculating.
 
 4.  **Scramble Functionality:**
