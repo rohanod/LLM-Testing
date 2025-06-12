@@ -20,14 +20,14 @@ Create a complete, self-contained single HTML file (index.html) for an interacti
 * When rotating using right-click + drag, make sure the faces are recalculated so the f is still the one in the front and not in the back. Only recalculate 3 seconds after the last drag rotation so it isn't constantly calculating.
 
 4.  **Scramble Functionality:**
-* Include a "Scramble" button.
-* When clicked, apply a sequence of 20-25 random, valid Rubik's Cube moves to the cube state.
-* Animate the scrambling sequence visually on the 3D cube.
-* Display a status message like "Scrambling..." during the process.
+* Include a "Scramble" button.
+* When clicked, apply a sequence of 20-25 random, valid Rubik's Cube moves to the cube state.
+* Animate the scrambling sequence visually on the 3D cube.
+* Display a status message like "Scrambling..." during the process.
 
 5.  **Solve Functionality:**
-* Include a "Solve" button.
-* When clicked, implement an efficient Rubik's Cube solving algorithm (like Kociemba's two-phase algorithm or a similar efficient method) to find the solution steps from the current scrambled state.
+* Include a "Solve" button.
+* When clicked, implement an efficient Rubik's Cube solving algorithm (like Kociemba's two-phase algorithm or a similar efficient method) to find the solution steps from the current scrambled state.
 * Animate the solving sequence visually on the 3D cube, applying the solution moves step-by-step. The animation should be clear and reasonably paced.
 * Display a status message like "Solving..." during the process and "Cube solved!" upon completion.
 
